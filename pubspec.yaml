@@ -1,0 +1,18 @@
+name: rrule
+description: Dart library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more.
+version: 0.0.1
+homepage: https://github.com/sainoba/rrule
+repository: https://github.com/sainoba/rrule
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+# dependencies:
+  # flutter:
+  #   sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  test: ^1.9.0
+  lint: ^1.1.1
